@@ -77,10 +77,6 @@ $ npm install whs
   <img src="http://whs.io/images/showcase/daily4.png" alt="http://abdaily.surge.sh/4/" width="30%" />
 </a>
 
-<a href="http://abdaily.surge.sh/3/">
-  <img src="http://whs.io/images/showcase/daily3.png" alt="http://abdaily.surge.sh/3/" width="30%" />
-</a>
-
 <a href="http://abdaily.surge.sh/2/">
   <img src="http://whs.io/images/showcase/daily2.png" alt="http://abdaily.surge.sh/2/" width="30%" />
 </a>
@@ -186,12 +182,6 @@ Support us with a monthly donation and help us continue framework developmentðŸŽ
 
 [xo]: https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square
 [xo-url]: https://github.com/sindresorhus/xo
-
-[three]: https://img.shields.io/badge/three-r86-blue.svg?style=flat-square
-[three-url]: https://github.com/mrdoob/three.js/
-
-[npm]: https://img.shields.io/npm/v/whs.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/whs
 
 [travis]: https://img.shields.io/travis/WhitestormJS/whs.js.svg?style=flat-square
 [travis-url]: https://travis-ci.org/WhitestormJS/whs.js?branch=develop
